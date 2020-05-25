@@ -1,0 +1,14 @@
+domain: portlet
+language: groovy
+project_name: qube_dummy_portlet
+project_slug: qube_dummy_portlet
+project_short_description: dummy_portlet for qube workshop
+template_version: '<function PortletCreator.create_template.<locals>.<lambda> at 0x106ccb0d0>
+  # <<QUBE_NO_BUMP>>'
+template_handle: portlet-groovy
+full_name: Steffen Greiner
+email: steffen.greiner@uni-tuebingen.de
+copyright_holder: QBiC
+github_username: Steffengreiner
+main_class_prefix: Dummy
+version: 1.0.0-SNAPSHOT
